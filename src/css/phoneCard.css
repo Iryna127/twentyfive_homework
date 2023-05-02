@@ -1,0 +1,39 @@
+.wrapper {
+background-color: burlywood;
+ width: 500px;
+margin: 0 auto; 
+border: 1px rebeccapurple solid;
+border-radius: 30px;
+margin: 10px 0px 0px 0px;
+}
+.wrapper__div {
+padding: 10px 0;
+}
+button {
+    color: rgb(21, 1, 1);
+    background-color: darkcyan;
+    width: 130px;
+    height: 30px;
+    border-radius: 5px;
+    margin: 0px 10px;
+    font-size: 23px;
+}
+.phone-card {
+    color: rgb(8, 54, 8);
+    font-size: 30px;
+    margin: 10px 0px ;
+}
+.phone-card__input {
+
+}
+input {
+    border: none; 
+    background-color: burlywood;
+    height: 30px;
+font-size: 22px;
+}
+input:hover, :active, :focus {
+    border: none;
+    outline: none;
+    box-shadow: none;
+}
